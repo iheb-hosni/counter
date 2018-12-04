@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.counter {
+  text-align: center;
+  border: 1px solid;
+  width: 50%;
+  height: 130px;
+}
+button {
+  width: 30px;
+  height: 40px;
+}
